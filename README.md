@@ -29,6 +29,7 @@ Cast: Lists the cast of the selected title.
 Countries Available Map: Shows countries where the selected title is available.
 
 # Data Processing
+
 Data Cleaning: Performed in Excel.
 
 Data Joining: Tables were joined with titles as the main table.
@@ -43,7 +44,10 @@ Data Joining: Tables were joined with Netflix titles as the main table in power 
 
 Course Link: https://www.udemy.com/course/data-analysis-projects-using-sql-power-bi-tableau-excel/
 
-
 Database: Utilized SQL for data processing.
+
 Connection: Power BI was connected with SQL for data visualization.
-Course Link: Data Analysis Projects using SQL, Power BI, Tableau & Excel
+
+Note: The "powerbidashboard"pdf has the power bi dashboard image.
+
+# Course Link: Data Analysis Projects using SQL, Power BI, Tableau & Excel
