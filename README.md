@@ -42,12 +42,8 @@ Data Cleaning: Performed in Excel.
 
 Data Joining: Tables were joined with Netflix titles as the main table in power bi
 
-Course Link: https://www.udemy.com/course/data-analysis-projects-using-sql-power-bi-tableau-excel/
 
-Database: Utilized SQL for data processing.
 
-Connection: Power BI was connected with SQL for data visualization.
+## Note: The "powerbidashboard"pdf has the power bi dashboard image.
 
-Note: The "powerbidashboard"pdf has the power bi dashboard image.
-
-# Course Link: Data Analysis Projects using SQL, Power BI, Tableau & Excel
+# Course Link: Course Link: https://www.udemy.com/course/data-analysis-projects-using-sql-power-bi-tableau-excel/
